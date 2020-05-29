@@ -1,0 +1,1 @@
+//guess in 1 move. Tell if the number was high or low.Reset the game button. range of the number should be known. 
